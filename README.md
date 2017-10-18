@@ -1,2 +1,2 @@
-# KNN
-KNN for regression
+# Simple Data Analysis using python & Scikit Learn Libraries 
+
