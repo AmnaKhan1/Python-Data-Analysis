@@ -42,3 +42,4 @@ for x,y in [(x,y) for x in range(2) for y in range(2)]:
     axes[x,y].grid(True)
 plt.suptitle("IRIS DATA SET", fontsize='20')
 plt.show()
+
